@@ -1,0 +1,12 @@
+C:\Users\PRAKTIKAN\Documents\Jurnal_MOD10_1302210081\Jurnal_MOD10_1302210081\MatematikaLibraries\bin\Debug\net6.0\MatematikaLibraries.deps.json
+C:\Users\PRAKTIKAN\Documents\Jurnal_MOD10_1302210081\Jurnal_MOD10_1302210081\MatematikaLibraries\bin\Debug\net6.0\MatematikaLibraries.dll
+C:\Users\PRAKTIKAN\Documents\Jurnal_MOD10_1302210081\Jurnal_MOD10_1302210081\MatematikaLibraries\bin\Debug\net6.0\MatematikaLibraries.pdb
+C:\Users\PRAKTIKAN\Documents\Jurnal_MOD10_1302210081\Jurnal_MOD10_1302210081\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\Jurnal_MOD10_1302210081\Jurnal_MOD10_1302210081\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\Jurnal_MOD10_1302210081\Jurnal_MOD10_1302210081\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\Jurnal_MOD10_1302210081\Jurnal_MOD10_1302210081\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\Jurnal_MOD10_1302210081\Jurnal_MOD10_1302210081\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\Jurnal_MOD10_1302210081\Jurnal_MOD10_1302210081\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.dll
+C:\Users\PRAKTIKAN\Documents\Jurnal_MOD10_1302210081\Jurnal_MOD10_1302210081\MatematikaLibraries\obj\Debug\net6.0\refint\MatematikaLibraries.dll
+C:\Users\PRAKTIKAN\Documents\Jurnal_MOD10_1302210081\Jurnal_MOD10_1302210081\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.pdb
+C:\Users\PRAKTIKAN\Documents\Jurnal_MOD10_1302210081\Jurnal_MOD10_1302210081\MatematikaLibraries\obj\Debug\net6.0\ref\MatematikaLibraries.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "1302210081/1.0.0": {
+        "dependencies": {
+          "MatematikaLibraries": "1.0.0"
+        },
+        "runtime": {
+          "1302210081.dll": {}
+        }
+      },
+      "MatematikaLibraries/1.0.0": {
+        "runtime": {
+          "MatematikaLibraries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1302210081/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MatematikaLibraries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
